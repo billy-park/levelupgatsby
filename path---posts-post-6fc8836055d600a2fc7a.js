@@ -1,0 +1,2 @@
+webpackJsonp([0xf72ee5b28802],{331:function(o,t){o.exports={data:{markdownRemark:{html:"<p>This is just going to be a test post, click above to see more...</p>\n<!-- end -->\n<p>Awesome, it looks like it works :)</p>\n<p>\\o/</p>",frontmatter:{title:"Welcome to the Wizzard Tower! (cool name for a blog right?)",date:"04 April 2018"}}},pathContext:{slug:"/posts/post/"}}}});
+//# sourceMappingURL=path---posts-post-6fc8836055d600a2fc7a.js.map
